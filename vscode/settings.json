@@ -1,0 +1,7 @@
+{
+    "[shellscript]": {
+        "editor.rulers": [80],
+        // Use LF line endings for shell scripts because CRLF is awful and should die
+        "files.eol": "\n"
+    }
+}
